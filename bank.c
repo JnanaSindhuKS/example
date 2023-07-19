@@ -3,6 +3,7 @@
 #include <string.h>
 #include <time.h>
 // changes
+//changes 2
 struct customer
 {
     char nm[30];
